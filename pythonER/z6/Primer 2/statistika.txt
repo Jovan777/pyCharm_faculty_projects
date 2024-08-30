@@ -1,0 +1,364 @@
+Afghanistan Volkswagen 10.00 43356.06 1
+Albania Acura 15.00 8377.38 1
+Albania Chevrolet 36.00 15896.43 2
+Argentina BMW 27.00 3116.52 1
+Argentina Chrysler 51.00 24292.62 1
+Argentina Dodge 19.00 11563.69 2
+Argentina Hyundai 35.00 1902.78 1
+Argentina Infiniti 22.00 2962.08 1
+Armenia Ford 37.00 2804.67 1
+Armenia Nissan 18.00 3982.77 1
+Azerbaijan GMC 45.00 25334.10 1
+Belarus Chevrolet 19.00 11616.66 1
+Belarus GMC 16.00 13763.97 1
+Belarus Lamborghini 23.00 2915.55 1
+Belgium GMC 39.00 1933.47 1
+Belize Ford 28.00 3223.44 1
+Bolivia Audi 34.00 1743.39 1
+Bosnia and Herzegovina Ford 30.00 4922.28 1
+Botswana Mercedes-Benz 6.00 12516.57 1
+Brazil Acura 15.00 6952.77 2
+Brazil Aston Martin 34.00 2776.95 1
+Brazil Dodge 40.67 16341.60 3
+Brazil Ford 14.00 10916.73 1
+Brazil GMC 42.00 31982.94 1
+Brazil Honda 48.00 23724.36 1
+Brazil Infiniti 16.00 11554.29 1
+Brazil Kia 3.00 42514.56 1
+Brazil Lexus 10.00 47731.86 1
+Brazil Nissan 45.00 27155.70 1
+Bulgaria Dodge 20.00 6549.84 1
+Bulgaria Toyota 18.50 22936.32 2
+Burkina Faso Dodge 31.00 2583.90 1
+Canada Chevrolet 35.00 2450.25 1
+Canada Lotus 24.00 4646.07 1
+Canada Mitsubishi 24.00 4335.21 1
+Canada Volkswagen 12.00 9478.26 1
+Central African Republic Jaguar 6.00 35358.84 1
+China Acura 29.50 21747.33 2
+China Audi 19.00 6677.55 1
+China BMW 45.50 29699.01 2
+China Buick 47.00 23657.04 1
+China Cadillac 8.00 35723.16 1
+China Chevrolet 20.86 10381.28 7
+China Chrysler 49.00 30501.90 1
+China Daewoo 31.00 2900.70 1
+China Dodge 17.00 12295.80 1
+China Eagle 10.00 35326.17 1
+China Ford 27.14 12387.87 7
+China GMC 1.00 39015.90 1
+China Hillman 41.00 2221.56 1
+China Honda 13.00 22009.19 2
+China Hummer 26.00 3874.86 1
+China Hyundai 21.00 7197.30 1
+China Isuzu 20.00 6768.63 1
+China Jaguar 50.00 27207.67 2
+China Jeep 26.83 20089.24 6
+China Lamborghini 33.00 2186.91 1
+China Land Rover 25.50 3668.45 2
+China Lexus 26.25 10208.88 4
+China Lincoln 23.00 3890.70 1
+China Mazda 7.75 22787.33 4
+China Mercedes-Benz 14.75 16939.89 4
+China Mercury 24.40 4505.09 5
+China Mitsubishi 36.00 17616.06 2
+China Nissan 24.60 17560.62 5
+China Oldsmobile 11.00 42146.28 1
+China Plymouth 29.33 9825.09 3
+China Pontiac 8.00 22522.50 2
+China Porsche 45.00 26665.65 1
+China Saab 19.50 22188.62 4
+China Saturn 46.00 21923.55 1
+China Scion 33.00 2214.14 2
+China Subaru 30.00 2604.69 1
+China Suzuki 40.00 12875.44 2
+China Toyota 28.67 4143.15 3
+China Volkswagen 21.17 24002.06 6
+China Volvo 31.33 10028.70 3
+Colombia BMW 18.00 8849.61 1
+Colombia Chevrolet 39.00 1860.21 1
+Colombia Honda 13.50 11805.26 2
+Colombia Isuzu 28.00 3613.50 2
+Colombia Jaguar 39.00 2296.80 1
+Colombia Mercury 36.00 2230.47 1
+Colombia Mitsubishi 2.00 49016.88 1
+Colombia Pontiac 48.50 22417.07 2
+Colombia Saab 51.00 27325.98 1
+Comoros GMC 16.00 4542.12 1
+Comoros Maserati 50.00 24182.73 1
+Comoros Mitsubishi 26.00 3729.33 1
+Costa Rica Ford 51.00 29320.83 1
+Croatia Jeep 23.00 3919.41 1
+Croatia Lexus 50.00 23098.68 1
+Croatia Rolls-Royce 48.00 28470.42 1
+Cuba Mercedes-Benz 26.00 2474.01 1
+Cyprus Fairthorpe 47.00 22737.33 1
+Czech Republic Acura 42.00 32227.47 1
+Czech Republic Buick 43.00 26233.02 1
+Czech Republic Honda 6.00 18490.23 1
+Czech Republic Isuzu 34.00 2151.27 1
+Czech Republic Mazda 43.00 21008.79 1
+Czech Republic Nissan 28.00 4580.73 1
+Czech Republic Pontiac 19.00 11932.47 1
+Democratic Republic of the Congo Suzuki 5.00 37060.65 1
+Denmark GMC 27.00 2782.89 1
+Ecuador Smart 44.00 21332.52 1
+Ecuador Toyota 49.00 32200.74 1
+Egypt Ford 46.00 27697.23 1
+Egypt Nissan 31.00 3504.60 1
+El Salvador Mercedes-Benz 44.00 26729.01 1
+Ethiopia Mazda 34.00 2262.15 1
+Ethiopia Toyota 22.00 4720.32 1
+Finland GMC 12.00 5908.32 1
+Finland Lincoln 23.00 2246.31 1
+Finland Suzuki 29.00 4478.76 1
+France Aston Martin 38.67 10600.26 3
+France Audi 3.00 27865.53 1
+France Chevrolet 24.00 4163.61 3
+France Dodge 21.67 5980.26 3
+France Eagle 34.00 2781.90 1
+France Ford 28.00 11930.99 4
+France Honda 34.00 2418.57 1
+France Lincoln 50.00 22132.44 1
+France Mazda 39.00 1607.76 1
+France Nissan 6.00 49132.71 1
+France Plymouth 28.00 2970.99 1
+France Toyota 38.00 12181.29 3
+France Volkswagen 38.00 2117.61 1
+French Guiana Volkswagen 5.00 43742.16 1
+Germany Lincoln 20.00 12858.12 1
+Greece Ford 46.00 31786.92 1
+Greece GMC 28.00 24753.47 2
+Greece Saab 15.00 10359.36 1
+Greece Saturn 11.00 26561.70 1
+Greece Subaru 48.00 25213.32 1
+Guatemala Mercury 36.00 2729.43 1
+Guyana Ford 27.00 2817.54 1
+Honduras Ford 7.00 45109.35 1
+Iceland Chevrolet 14.00 10264.32 1
+Indonesia Audi 34.50 16307.78 2
+Indonesia BMW 20.00 9543.27 3
+Indonesia Buick 4.00 19461.42 1
+Indonesia Cadillac 14.00 26781.98 2
+Indonesia Chevrolet 20.00 15815.91 3
+Indonesia Dodge 24.33 6197.07 3
+Indonesia Ford 30.83 3124.11 6
+Indonesia GMC 20.00 6415.20 1
+Indonesia Geo 8.00 28263.51 1
+Indonesia Hyundai 18.50 16381.03 2
+Indonesia Jeep 25.00 4497.57 1
+Indonesia Kia 26.00 3058.11 1
+Indonesia Lamborghini 42.00 31092.93 1
+Indonesia Land Rover 42.00 14216.90 2
+Indonesia Lexus 44.00 29931.66 1
+Indonesia Lincoln 35.00 1612.71 1
+Indonesia Mazda 48.00 31276.08 1
+Indonesia Mercedes-Benz 29.33 5417.94 3
+Indonesia Mercury 29.50 3632.31 4
+Indonesia Mitsubishi 22.75 14114.92 4
+Indonesia Saab 34.00 2290.86 1
+Indonesia Subaru 43.00 34192.62 1
+Indonesia Suzuki 45.00 23750.10 1
+Indonesia Toyota 22.50 8056.37 4
+Indonesia Volvo 36.00 1506.78 1
+Iran Dodge 46.00 24837.12 1
+Iran Honda 30.00 2122.56 1
+Iran Lexus 38.00 2284.92 1
+Iran Nissan 43.00 27086.40 1
+Iraq Volvo 31.00 3962.97 1
+Ivory Coast BMW 24.00 4163.94 1
+Ivory Coast Jeep 7.00 44552.97 1
+Japan Audi 29.00 4430.25 1
+Japan BMW 2.00 29393.10 1
+Japan Ford 23.50 22437.36 2
+Japan Jeep 8.00 26866.62 1
+Japan Mitsubishi 15.50 5893.97 2
+Japan Toyota 51.00 27014.13 1
+Kazakhstan Audi 8.00 47467.53 1
+Kazakhstan Ford 27.00 2734.38 1
+Kosovo Cadillac 34.00 2027.52 1
+Laos Mazda 10.00 35411.31 1
+Latvia Dodge 22.00 4536.18 1
+Libya Maserati 3.00 21142.44 1
+Macedonia GMC 35.00 1654.29 1
+Madagascar Chrysler 24.00 3374.91 1
+Madagascar Lotus 31.00 4600.53 1
+Malaysia Mercedes-Benz 26.00 4407.48 1
+Malaysia Mitsubishi 35.00 2021.58 1
+Mauritius Audi 51.00 30557.34 1
+Mauritius Ford 29.00 3366.99 1
+Mauritius Geo 38.00 2359.17 1
+Mauritius Kia 41.00 1678.05 1
+Mexico Chevrolet 25.00 37591.29 2
+Mexico Ford 47.00 24320.34 1
+Mexico GMC 3.00 14935.14 1
+Mexico Land Rover 20.00 5670.72 1
+Mexico Maybach 27.00 4064.94 1
+Mexico Mitsubishi 48.00 22968.99 1
+Mexico Nissan 26.00 3885.75 1
+Mexico Renault 1.00 33193.71 1
+Mexico Toyota 19.00 10706.85 1
+Moldova Jeep 19.00 10226.70 1
+Mongolia Lincoln 11.00 46790.37 1
+Mongolia Suzuki 26.00 3626.37 1
+Mongolia Volkswagen 48.00 27218.07 1
+Montenegro Ford 48.00 25126.20 1
+Morocco Isuzu 48.00 31166.19 1
+Morocco Mazda 6.00 47621.97 1
+Morocco Mitsubishi 12.00 8922.87 1
+Morocco Suzuki 36.00 1607.76 1
+Netherlands BMW 42.67 12353.88 3
+Netherlands Dodge 46.00 27534.87 1
+Netherlands Mazda 14.00 11185.02 1
+Nicaragua Honda 24.00 4461.93 1
+Nicaragua Hyundai 14.00 14169.87 1
+Nicaragua Nissan 1.00 22755.15 1
+Nigeria Austin 44.00 28360.53 1
+Nigeria Ford 6.00 26762.67 1
+Nigeria Honda 32.00 1682.01 1
+Nigeria Nissan 38.00 1732.50 1
+Nigeria Pontiac 26.00 3848.13 1
+North Korea BMW 25.00 3840.21 1
+North Korea Honda 16.00 10670.22 1
+North Korea Toyota 4.00 37079.46 1
+Norway Cadillac 13.00 10242.54 1
+Norway Chevrolet 39.00 2286.90 1
+Pakistan Ford 34.00 2285.91 1
+Pakistan Mitsubishi 50.00 33744.15 1
+Palestinian Territory Jaguar 44.00 32320.53 1
+Palestinian Territory Mitsubishi 5.00 49281.21 1
+Paraguay BMW 7.00 31125.60 1
+Paraguay Lexus 8.00 28560.51 1
+Peru Acura 13.00 6648.84 1
+Peru GMC 10.00 12580.92 1
+Peru Holden 38.00 2060.19 1
+Peru Honda 39.00 16168.19 2
+Peru Nissan 6.00 25829.10 1
+Peru Pontiac 22.00 2670.03 1
+Peru Subaru 30.00 3995.64 1
+Philippines Audi 19.00 21452.31 2
+Philippines BMW 50.00 34039.17 1
+Philippines Cadillac 20.00 10170.27 1
+Philippines Chevrolet 21.33 8507.07 3
+Philippines Chrysler 39.00 1871.10 1
+Philippines Dodge 35.00 1742.40 1
+Philippines GMC 13.00 8525.88 1
+Philippines Honda 37.00 2833.38 1
+Philippines Isuzu 17.00 5373.72 1
+Philippines Land Rover 12.00 30837.01 2
+Philippines Mazda 39.00 2914.56 1
+Philippines Mercedes-Benz 35.00 2612.61 1
+Philippines Mercury 22.00 2360.16 1
+Philippines Mitsubishi 16.00 14379.25 2
+Philippines Nissan 31.50 3012.08 2
+Philippines Pontiac 21.00 8445.69 1
+Philippines Suzuki 48.00 24064.92 1
+Poland BMW 18.00 9078.30 1
+Poland Chevrolet 23.33 22074.03 3
+Poland Dodge 50.00 32729.40 1
+Poland Ford 43.50 18573.39 2
+Poland Jaguar 32.00 2261.16 1
+Poland Jeep 8.00 31835.43 1
+Poland Lotus 11.00 47659.59 1
+Poland Mercedes-Benz 17.00 13775.85 1
+Poland Mercury 14.00 12453.21 1
+Poland Plymouth 36.00 2812.59 1
+Poland Toyota 18.00 10249.47 1
+Poland Volkswagen 26.00 27868.99 2
+Portugal BMW 46.00 22520.52 1
+Portugal Buick 13.00 12795.75 1
+Portugal Chevrolet 28.00 4465.89 2
+Portugal Dodge 15.00 19223.33 2
+Portugal Eagle 33.00 2504.70 1
+Portugal Infiniti 21.00 11696.85 1
+Portugal Kia 51.00 20990.97 1
+Portugal Lincoln 26.00 3202.65 1
+Portugal Mercedes-Benz 43.00 29587.14 1
+Portugal Nissan 40.50 13665.96 2
+Portugal Oldsmobile 19.00 9802.98 1
+Portugal Suzuki 44.00 26097.39 1
+Puerto Rico Aston Martin 46.00 28443.69 1
+Reunion BMW 28.00 2768.04 1
+Russia BMW 6.00 34323.30 1
+Russia Buick 33.00 2415.60 1
+Russia Chevrolet 33.00 2831.40 1
+Russia Dodge 36.00 2145.33 1
+Russia Ford 19.67 8668.77 3
+Russia GMC 42.00 24457.95 1
+Russia Hyundai 9.00 28402.11 1
+Russia Jeep 34.00 17891.28 2
+Russia Kia 30.00 3836.25 1
+Russia Land Rover 22.00 4781.70 1
+Russia Lotus 20.00 9287.19 1
+Russia Mazda 26.00 3507.57 1
+Russia Mercedes-Benz 30.00 2998.22 2
+Russia Nissan 21.00 8697.65 2
+Russia Porsche 31.00 2619.54 1
+Russia Toyota 36.67 11959.86 3
+Russia Volkswagen 15.00 14238.18 1
+Russia Volvo 36.00 1586.97 1
+Saint Lucia Cadillac 27.00 3591.72 1
+Saudi Arabia Honda 50.00 32369.04 1
+Saudi Arabia Kia 25.00 4195.62 1
+Serbia Hyundai 11.00 18556.56 1
+Serbia Suzuki 40.00 2324.52 1
+Slovenia BMW 42.00 30607.83 1
+Slovenia Mazda 35.00 1566.18 1
+Somalia Lexus 45.00 23614.47 1
+South Africa Chevrolet 37.00 1597.86 1
+South Africa Ford 18.00 13485.78 1
+South Africa Toyota 13.00 7773.48 1
+South Korea Chevrolet 24.50 30116.79 2
+South Korea Suzuki 3.00 13111.56 1
+Spain Subaru 32.00 2225.52 1
+Sri Lanka Pontiac 34.00 1812.69 1
+Sweden Chevrolet 48.00 20735.55 1
+Sweden Chrysler 20.00 10392.03 1
+Sweden Ford 7.00 12373.02 1
+Sweden GMC 3.00 21145.41 1
+Sweden Hyundai 12.00 4467.87 1
+Sweden Mercedes-Benz 2.00 42813.04 2
+Sweden Scion 42.00 23224.41 1
+Sweden Volkswagen 34.00 2900.70 1
+Sweden Volvo 31.50 22888.80 2
+Syria Ford 50.00 24382.71 1
+Syria Pontiac 16.00 7727.94 1
+Taiwan Dodge 18.00 5813.28 1
+Tanzania Jeep 20.00 6870.60 1
+Tanzania Mercedes-Benz 46.00 27200.25 1
+Tanzania Mitsubishi 42.00 25291.53 1
+Thailand Audi 31.00 3053.16 1
+Thailand Chevrolet 12.00 20081.65 2
+Thailand Jaguar 26.00 2347.29 1
+Thailand Mercedes-Benz 21.00 25215.30 2
+Thailand Mitsubishi 22.00 4435.20 1
+Thailand Suzuki 35.00 1862.19 1
+Togo Lexus 40.00 2124.54 1
+Togo Saab 42.00 34630.20 1
+Tunisia Audi 17.00 6725.07 1
+Tunisia Chevrolet 21.00 10588.05 1
+Tunisia Rolls-Royce 11.00 21541.41 1
+Ukraine Acura 36.00 2158.20 1
+Ukraine Chevrolet 46.00 20360.34 1
+Ukraine Chrysler 14.00 12610.62 1
+Ukraine Honda 24.00 39481.20 2
+Ukraine Lamborghini 1.00 41116.68 1
+Ukraine Mazda 47.00 24073.83 1
+Ukraine Mercedes-Benz 43.00 33924.33 1
+Ukraine Mitsubishi 41.00 1675.08 1
+Ukraine Oldsmobile 10.00 13875.84 1
+United States Buick 39.00 1981.98 1
+United States Mercedes-Benz 48.00 29687.13 1
+United States Mercury 31.00 4529.25 1
+United States Mitsubishi 35.00 2596.77 1
+United States Porsche 8.00 37789.29 1
+United States Saturn 32.00 1897.83 1
+United States Suzuki 6.00 32255.19 1
+United States Toyota 6.00 31335.48 1
+United States Volkswagen 24.00 4743.09 1
+Uzbekistan GMC 39.00 1848.33 1
+Uzbekistan Honda 35.00 2803.68 1
+Vietnam Dodge 14.00 7444.80 1
+Vietnam Land Rover 33.00 2373.03 1
+Vietnam Tesla 28.00 3725.37 1
+Vietnam Toyota 38.00 2869.02 1

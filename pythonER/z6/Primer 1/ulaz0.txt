@@ -1,0 +1,500 @@
+Abramo,McAllaster,Norway,Toyota,1992,2233.44
+Marin,Sanders,United States,Acura,2000,6292.44
+Philippe,Torr,Indonesia,Chrysler,2011,38835.72
+Dacie,Newlands,China,Pontiac,1993,4144.14
+Bertine,Itzcak,Indonesia,BMW,2011,44492.58
+Ardath,Lapsley,Uzbekistan,Mitsubishi,2012,24585.66
+Davis,Normadell,Palau,Porsche,1979,24731.19
+Kerrin,Cronin,Philippines,Ford,1970,28436.76
+Floria,Huton,Kyrgyzstan,Porsche,2002,4686.66
+Rakel,Cawsy,Philippines,Lexus,2018,31682.97
+Constancy,Dugget,Poland,Volvo,2016,13083.84
+Heda,Turmel,Ukraine,Buick,2018,13642.2
+Clerc,Schubuser,Switzerland,Dodge,1996,3577.86
+Penn,Towersey,Indonesia,Ford,1988,1859.22
+Lacey,Egdal,Brazil,Mazda,1984,2258.19
+Pierce,Leborgne,Bulgaria,Chevrolet,1974,27360.63
+Latrena,Trendle,Indonesia,Kia,2006,14072.85
+Brittney,Ivanishchev,Vietnam,Plymouth,2011,20910.78
+Mercedes,Gregersen,Indonesia,Suzuki,1995,2925.45
+Joell,Howkins,Sierra Leone,Suzuki,1978,30230.64
+Aggi,Van Vuuren,China,Jeep,1970,26129.07
+Delores,Kingscote,Indonesia,Land Rover,2008,12100.77
+Jaymee,Oakenford,France,Nissan,1973,28830.78
+Theodoric,Collinette,Brazil,Mercury,1980,2235.42
+Pernell,MacGowing,Sweden,Toyota,1991,2169.09
+Franzen,de Leon,Finland,Isuzu,2000,14210.46
+Elisha,Robertsson,China,Maybach,1975,19979.19
+Antons,Langhorne,Argentina,Mercury,1994,4012.47
+Ari,Benes,China,Chevrolet,2001,4318.38
+Dannie,Swyer-Sexey,Indonesia,Daewoo,1970,20695.95
+Dulcea,Waddell,Indonesia,Mercury,1971,32503.68
+Sansone,Grayshon,Indonesia,Maybach,2000,10980.09
+Gretel,Mokes,Philippines,Volkswagen,2011,34621.29
+Sergeant,Burth,North Korea,Ford,1977,33334.29
+Caroljean,MacKeeg,Ukraine,Lamborghini,2011,46707.21
+Gabe,Tatford,China,GMC,2012,46169.64
+Kennith,Horstead,China,Mitsubishi,1988,2777.94
+Sauncho,Hacket,Argentina,Lexus,1981,2838.33
+Amandy,Safont,Sweden,Toyota,2001,8898.12
+Biddie,Kemer,Italy,Honda,1971,20966.22
+Delmor,McDool,Portugal,Mitsubishi,1990,3570.93
+Clim,Goldfinch,South Africa,Hyundai,1986,2756.16
+Stace,Farden,Malaysia,Ford,2011,40581.09
+Mathias,McNamara,Brazil,Hyundai,2005,12835.35
+Georgina,Tibbits,Colombia,Dodge,1999,2178.99
+Sherm,O'Dyvoie,Pakistan,Mercedes-Benz,2014,21661.2
+Courtnay,Edsall,Sweden,Mitsubishi,1993,4821.3
+Virginia,Diggle,Indonesia,Spyker,2018,21582
+Gannon,Rickets,Paraguay,Chevrolet,2012,15534.09
+Basilio,Nevinson,Philippines,Jaguar,1974,29646.54
+Astrix,Ornillos,Portugal,Lincoln,1983,1650.33
+Berkeley,Peakman,Serbia,Toyota,1971,26861.67
+Mickie,Amerighi,Mexico,GMC,2012,21162.24
+Nil,Flips,Brazil,Maybach,2019,13460.04
+Solomon,Rodda,Brazil,Hyundai,2018,12160.17
+Dalli,Quinnelly,Morocco,Suzuki,2013,33562.98
+Rossie,Courage,Bulgaria,Mazda,2014,36629.01
+Ester,Tearney,Mongolia,Kia,1988,1683
+Lukas,Karadzas,China,Cadillac,1996,2413.62
+Noak,Danahar,Greece,Dodge,2020,24288.66
+Carey,Inmett,Saudi Arabia,Mazda,2018,15044.04
+Allis,Jeanin,Poland,Chevrolet,1991,2151.27
+Padget,Brody,Botswana,GMC,2003,10491.03
+Valera,Milmith,United States,Audi,1987,2864.07
+Arnuad,Ferres,Venezuela,Porsche,1994,4451.04
+Jorey,Dowrey,Azerbaijan,Ford,1979,26525.07
+Corrianne,Colling,Indonesia,GMC,1988,2183.94
+Smitty,Harrald,China,Mercury,2006,8153.64
+Melany,McPhelim,Nigeria,Subaru,2009,4773.78
+Skyler,Reany,Portugal,Chevrolet,1994,4435.2
+Jonah,Bonner,Mozambique,Mitsubishi,2017,19278.27
+Britte,Mallall,Uruguay,Subaru,1985,2368.08
+Warden,Siss,Norway,Nissan,1981,1861.2
+Jodie,Roony,Philippines,Mazda,2008,13231.35
+Muffin,Rawlyns,Lithuania,Honda,2016,16605.27
+Son,McKernon,Philippines,Subaru,2005,6391.44
+Daphne,Vannuchi,Brazil,Infiniti,1986,2511.63
+Keelia,Tracey,Poland,Volvo,1998,4852.98
+Lou,Marousek,China,Land Rover,2020,29479.23
+Burch,McLenahan,China,Mazda,1990,3774.87
+Jodie,Carefull,China,Audi,2003,12309.66
+Rex,Eva,China,Audi,1983,2156.22
+Danya,Lloyd-Williams,Poland,Mitsubishi,1976,23007.6
+Raffaello,Hens,Syria,Aston Martin,2017,14088.69
+Abner,Bing,United States,Chevrolet,1973,20694.96
+Silvana,Gebby,China,Chevrolet,2019,32792.76
+Terry,Mulvin,Guyana,Mitsubishi,2012,33074.91
+Halli,Copello,Russia,Dodge,1991,3580.83
+Lorianna,Chesterfield,Czech Republic,Ford,1985,2759.13
+Denyse,Birkenshaw,Brazil,Nissan,1999,2042.37
+Ettore,Bigley,China,Mercedes-Benz,1988,2674.98
+Kirstin,Lodwick,Kenya,Infiniti,1978,22290.84
+Rosalia,Ferrotti,Bulgaria,Ford,2000,11077.11
+Ephrayim,Keeting,France,Aston Martin,1986,1944.36
+Nicoli,Mansford,South Africa,Mercedes-Benz,2003,11019.69
+Nadya,Deighan,United States,GMC,2015,22186.89
+Coriss,Cussins,Indonesia,Pontiac,1989,2254.23
+Lonna,Alfonsini,Russia,Mercury,1976,31185.99
+Gilbertina,Benyon,Comoros,Mercury,1992,3641.22
+Aldridge,Vallery,Sweden,Mercedes-Benz,1995,2718.54
+Shaylyn,Maysor,Indonesia,Volvo,2014,42425.46
+Dal,Mitro,Costa Rica,Ford,2011,14931.18
+Kamilah,Staddart,Croatia,Ford,2016,38358.54
+Marshall,Brech,Philippines,Oldsmobile,1999,3936.24
+Paule,Brenton,Philippines,Subaru,2007,8933.76
+Chauncey,Dashwood,China,Oldsmobile,1996,4281.75
+Wendi,Camoletto,Philippines,Chevrolet,2008,6743.88
+Felicity,Simoneton,China,Ford,1977,27882.36
+Sergei,Saunderson,Philippines,Mitsubishi,1974,34142.13
+Benji,Merrywether,China,Mitsubishi,1976,21319.65
+Chelsie,Giuron,Indonesia,Pontiac,1988,1754.28
+Kerri,McRitchie,China,BMW,2010,18139.77
+Prinz,D'Ambrosio,Sweden,Oldsmobile,1998,2163.15
+Sebastiano,Ebbins,Guatemala,Oldsmobile,1991,3848.13
+Thayne,McKibben,Nepal,Hummer,2011,34634.16
+Dionis,Lottrington,Uganda,Cadillac,2013,13380.84
+Staford,D'Abbot-Doyle,Cyprus,Mercedes-Benz,2013,44503.47
+Ram,Fruen,Morocco,Volkswagen,2007,9458.46
+Ryann,Rishworth,South Korea,Infiniti,1977,23415.48
+Doll,Senechault,Ukraine,Dodge,2007,10120.77
+Phaidra,Shorthill,Madagascar,Chevrolet,1972,32960.07
+Natty,Legier,China,Land Rover,2016,43523.37
+Reta,Mallord,Sweden,Nissan,1998,2617.56
+Paule,Gunning,Thailand,Jeep,1998,2432.43
+Carri,Springate,France,Lincoln,1982,1885.95
+Shurwood,Nesterov,China,BMW,1994,3255.12
+Filmer,Winfindine,United States,Suzuki,1973,32047.29
+Asia,Purcer,Canada,Suzuki,2015,40439.52
+Aloisia,Crumbie,Greece,Nissan,1972,32855.13
+Gherardo,Swyne,China,Chevrolet,1984,2464.11
+Shara,Reboulet,Thailand,BMW,1981,2510.64
+Grady,Rakestraw,Jamaica,Land Rover,1984,2878.92
+Benji,Quirk,Nigeria,Suzuki,1987,1531.53
+Astrix,Ower,China,GMC,2015,28715.94
+Rachelle,Wandrach,Netherlands,Ford,2016,48165.48
+Helena,Denyagin,Thailand,Mitsubishi,1994,2521.53
+Juana,Wrack,Poland,Chevrolet,2002,12443.31
+Alvin,O'Mohun,Yemen,Volvo,1982,2605.68
+Lyn,Westfield,Indonesia,Mercedes-Benz,2018,41561.19
+Rudolf,Slafford,Philippines,Lexus,2002,10299.96
+Lydia,Finch,Palestinian Territory,Ford,2006,5915.25
+Dallas,Ratnege,Botswana,Lexus,2014,32264.1
+Cynthie,Woodsford,South Korea,Lotus,1979,27639.81
+Arielle,MacGibbon,Russia,Land Rover,2020,23809.5
+Dela,Fache,Ukraine,Mitsubishi,2014,27727.92
+Annette,Menelaws,Paraguay,Suzuki,1999,4331.25
+Aguste,Crews,China,Rolls-Royce,1987,1644.39
+Nissy,Scutcheon,United States,Cadillac,1980,2919.51
+Brady,Lasselle,Thailand,Nissan,1972,24963.84
+Timofei,Chrystal,France,Audi,1978,25811.28
+Tani,Fisby,Colombia,Audi,2015,26085.51
+Felicdad,Skeldon,Brazil,Kia,1971,22059.18
+Suzy,Mariette,China,Ford,1983,1506.78
+Kean,Degli Antoni,Honduras,Ford,1988,2438.37
+Karoly,Hartlebury,France,Suzuki,2007,5764.77
+Thurston,Delacroux,Indonesia,Chevrolet,2003,8869.41
+Sherm,Wyld,Germany,Hyundai,1980,2331.45
+Luca,Aleksidze,Kazakhstan,Dodge,1993,3881.79
+Thadeus,Timperley,Kazakhstan,Pontiac,1989,2400.75
+Tadeas,Olczyk,Indonesia,Chevrolet,2011,38831.76
+Gannon,Mazillius,China,Hyundai,2004,9855.45
+Clio,Couldwell,China,Ferrari,2013,24778.71
+Burty,Vasiltsov,China,Dodge,1997,4311.45
+Cordey,Blackden,Kosovo,Chevrolet,1987,1899.81
+Daisie,Gapper,Honduras,Ford,2004,10609.83
+Midge,Mapam,Philippines,Nissan,2014,24990.57
+Candice,Hanes,Croatia,Oldsmobile,1992,4486.68
+Ellwood,Clench,France,Kia,1993,2162.16
+Davy,McFade,Bosnia and Herzegovina,Oldsmobile,2015,19493.1
+Saul,Gledstane,Indonesia,Mercury,2017,30076.2
+Karim,Henriques,Honduras,Audi,1999,3928.32
+Felicity,Scudder,Greece,Chevrolet,2016,24338.16
+Doti,Lindeman,Philippines,Pontiac,2002,5543.01
+Angelico,Bedminster,Poland,Mercedes-Benz,2020,37789.29
+Debi,Kayser,Indonesia,Honda,1974,20208.87
+Gibbie,Ziemsen,Philippines,Plymouth,1991,2725.47
+Jermayne,Batalini,China,Mitsubishi,2006,11171.16
+Cherice,Mingardi,China,Chevrolet,2010,21432.51
+Paddie,Leere,China,BMW,2012,34373.79
+Tommi,Stilliard,Poland,Hyundai,1991,2565.09
+Dolf,Rapley,Russia,Toyota,2017,28949.58
+Nettle,Wheldon,Greece,Subaru,2000,6952.77
+Raff,Bashford,Portugal,Toyota,2017,14271.84
+Mic,Tessington,Morocco,Toyota,2015,17134.92
+Jacki,Mayhead,Croatia,Chevrolet,1978,33857.01
+Laurence,Lucien,China,Suzuki,1985,1531.53
+Cathe,Kitcatt,Indonesia,Dodge,1997,4044.15
+Mirilla,Buckham,Kuwait,Chrysler,1978,30008.88
+Helenelizabeth,Oswick,Russia,Lexus,2003,13811.49
+Teena,Southernwood,Czech Republic,Ford,1978,33990.66
+Toby,Tamas,Mexico,Mercedes-Benz,2003,8597.16
+Nichol,Dilger,Malaysia,Ford,1982,1894.86
+Clevey,Ilbert,China,Porsche,2002,5192.55
+Whitaker,Ridgley,Ukraine,Nissan,1987,2754.18
+Philly,Wolfenden,Portugal,Dodge,2012,16440.93
+Yasmin,Weadick,Paraguay,Mitsubishi,1981,2871.99
+Darryl,Haack,China,GMC,1990,3997.62
+Timoteo,Huws,Indonesia,Lexus,2018,21043.44
+Hazel,Robertsen,Brazil,Dodge,1982,1661.22
+Geri,Childrens,China,Mercury,2012,48121.92
+Odo,Abbess,Angola,Oldsmobile,1998,2682.9
+Ferris,Belfit,Brazil,Infiniti,2012,30988.98
+Mellisa,Epinoy,France,Land Rover,1976,25815.24
+Talya,Stubbs,Portugal,Dodge,1981,2795.76
+Rickard,Foreman,Egypt,Audi,2014,44102.52
+Georgy,Peplay,Kazakhstan,Dodge,2001,11797.83
+Maia,Vogeler,Sweden,Isuzu,1975,24084.72
+Arley,Pherps,China,McLaren,1970,31720.59
+Bertha,Denniss,France,Volkswagen,2012,42602.67
+Ellerey,Tamplin,Indonesia,GMC,1991,3795.66
+Danila,Scothorne,Slovenia,Dodge,1982,2334.42
+Alida,Kipling,Albania,Jaguar,1975,24303.51
+Penn,Braune,United States,Audi,1999,2097.81
+Elias,Humfrey,Yemen,Subaru,1988,1568.16
+Jillana,Sherme,Sweden,Hyundai,1988,1687.95
+Clareta,Rozycki,Poland,Lincoln,2001,8160.57
+Angel,Moss,Macedonia,Lexus,1999,4618.35
+Marybelle,MacMorland,Indonesia,Toyota,1970,27864.54
+Buiron,Ayrs,Indonesia,Mazda,1994,4674.78
+Sara,Farlow,Indonesia,Mitsubishi,2001,7909.11
+Kleon,Flann,France,Pontiac,2007,10582.11
+Nadia,Mealham,Indonesia,Aston Martin,1998,3276.9
+Clair,Gunthorpe,Sweden,Chevrolet,1974,23282.82
+Atlanta,Naisby,Brazil,Chevrolet,1997,3291.75
+Harold,Glasscock,Sweden,Chevrolet,2009,6250.86
+Deane,Ferryn,Brazil,Chevrolet,2002,4027.32
+Kimbell,Desquesnes,Japan,Oldsmobile,2001,14237.19
+Maryjo,Hilland,China,Ford,1984,2320.56
+Erroll,Dyke,China,Hyundai,2009,7379.46
+Codie,Clash,China,Buick,1970,23392.71
+Walliw,Greeno,Nigeria,GMC,2017,48992.13
+Birch,Soots,Canada,BMW,1997,3148.2
+Carol,Meysham,Ethiopia,Lincoln,1987,1774.08
+Alvis,Luckcuck,Japan,Ford,1997,4871.79
+Babara,Wettern,Japan,Volkswagen,1990,2836.35
+Maressa,Rogeon,Serbia,Mercedes-Benz,1999,2118.6
+Ernst,Creddon,Estonia,Chevrolet,2009,4629.24
+Saidee,Norris,Austria,Toyota,1973,23363.01
+Alaric,Danielsohn,Indonesia,Buick,1973,28944.63
+Tamarah,Daine,Sweden,Mazda,2000,12308.67
+Orion,Garth,Indonesia,Subaru,1995,3823.38
+Marlie,Jobes,Honduras,Suzuki,1977,28061.55
+Murvyn,Primrose,South Korea,Cadillac,1977,24708.42
+Rosina,Pyecroft,Czech Republic,Honda,2016,46733.94
+Byrom,Leathers,France,Dodge,1997,4017.42
+Tully,Warhurst,Pakistan,Volvo,1979,31241.43
+Francklin,Emmines,Ecuador,Chevrolet,2011,31796.82
+Leif,Muckersie,Lithuania,Audi,2013,46150.83
+Fianna,Whightman,France,Mitsubishi,2011,17148.78
+Hersh,Grigoire,China,Chevrolet,1973,21130.56
+Thorsten,Mattingly,Israel,Alfa Romeo,1979,32731.38
+Teddie,Haruard,Ukraine,Buick,1985,2567.07
+Chick,Farran,Greece,Toyota,1998,2946.24
+Alonzo,Glancey,China,Acura,2019,21702.78
+Lars,Akers,Ukraine,Bentley,2011,43556.04
+Daisi,Cosson,Norway,Toyota,1992,2306.7
+Edin,Darby,Azerbaijan,Plymouth,1978,28033.83
+Torrin,Hayller,China,Volvo,1986,1613.7
+My,Cundey,China,Ford,1980,2452.23
+Hunt,Potkins,China,Chevrolet,1972,22276.98
+Genny,Vassay,Japan,Volkswagen,1981,2807.64
+Thaddeus,Trobe,Bulgaria,Acura,2004,5604.39
+Pepito,Wallwork,Morocco,Jeep,2010,12780.9
+Nadeen,Haslam,Russia,Honda,2015,38010.06
+Davon,Gambie,Indonesia,Toyota,1999,4744.08
+Maxie,Chiverstone,Russia,Maybach,1989,1883.97
+Dorry,Tommeo,Kazakhstan,Lotus,2000,12817.53
+Kari,Ricold,Indonesia,Nissan,2010,27543.78
+Aggie,Collumbell,Ukraine,Maybach,1997,4097.61
+Valeda,Fiddiman,China,Volvo,1970,27843.75
+Staford,Denley,Canada,Mercedes-Benz,1979,24915.33
+Sherilyn,Stoffels,Indonesia,Lincoln,2002,13489.74
+Theresa,Vint,Poland,Toyota,2018,17535.87
+Jaime,Ellsbury,Indonesia,Dodge,2012,49161.42
+Maurie,Senton,Portugal,Dodge,1986,2101.77
+Brian,McEllen,Mexico,Chevrolet,1983,1742.4
+Rosanne,Honeywood,Panama,BMW,2001,10588.05
+Averyl,Dallinder,Portugal,GMC,1976,32229.45
+Dara,Fowlie,Indonesia,Nissan,2001,7289.37
+Jard,Bartholomaus,Philippines,Buick,1993,4721.31
+Abby,Antosch,China,Aston Martin,1986,2018.61
+Robbyn,Rodolico,Panama,Mitsubishi,2007,5936.04
+Murdock,Yurtsev,United Kingdom,Dodge,1973,29702.97
+Rebbecca,Jurasek,Indonesia,Lexus,2015,23386.77
+Margarette,Trunks,Thailand,Chevrolet,2002,13003.65
+Athene,Poltun,Poland,Ford,1981,2739.33
+Roddy,Ormes,China,Oldsmobile,1983,2326.5
+Debbi,Lorence,China,Pontiac,1980,2312.64
+Andria,Sidnall,Argentina,Chevrolet,1994,3888.72
+Olav,Castanares,Macedonia,Infiniti,2007,4872.78
+Kandace,Tidmas,Sweden,Chevrolet,2014,43838.19
+Rodolfo,Howsam,Guatemala,Chrysler,1997,3523.41
+Bank,Livingstone,Indonesia,Pontiac,1986,2634.39
+Rosabella,Lightman,Czech Republic,Volvo,2015,48789.18
+Robbie,Eynaud,China,Mercury,1994,4316.4
+Rosco,Pietruschka,Nicaragua,Jaguar,2015,34111.44
+Clair,Hourihan,Sweden,GMC,1970,27798.21
+Shaine,Ackenhead,Indonesia,GMC,1988,1490.94
+Ardene,Grinstead,Indonesia,Jeep,1983,2950.2
+Morton,Dirand,China,Isuzu,1982,2372.04
+Flossy,Vyse,Brazil,McLaren,2005,5391.54
+Kermy,Paxeford,Jordan,GMC,2012,16534.98
+Amandie,Foskew,Bosnia and Herzegovina,BMW,2015,43097.67
+Ingram,Lewis,Peru,Acura,2005,10512.81
+Currie,Praton,Indonesia,Nissan,2001,7636.86
+Priscilla,Landeg,Belarus,Honda,1998,2211.66
+Sigismond,Cowles,Ecuador,Audi,1975,25827.12
+Cherri,Hinchshaw,China,Volkswagen,1983,2550.24
+Sigrid,Lilly,Tunisia,Eagle,2013,44718.3
+Meredeth,Feltoe,China,Kia,2014,31255.29
+Fania,Clute,Brazil,Hyundai,1988,2704.68
+Hillyer,Kunz,Indonesia,BMW,1984,2298.78
+Grannie,Van der Velde,Egypt,Mercedes-Benz,2005,10531.62
+Florry,Tulip,Albania,Mitsubishi,1977,34337.16
+Gregory,Aleksandrikin,China,Nissan,2009,12696.75
+Worthy,Ginn,Indonesia,MINI,2010,37318.05
+Robb,Cranidge,China,Chevrolet,1987,1961.19
+Amalea,Lukasik,France,Oldsmobile,1986,2736.36
+Joshuah,Stot,Poland,Honda,1986,2047.32
+Red,Kelston,China,Lexus,1976,19943.55
+Hadria,MacIlhargy,Portugal,GMC,1974,28787.22
+Lura,McKinley,Mexico,Aston Martin,1984,2310.66
+Harmon,Gabbatiss,Japan,Chevrolet,1975,24127.29
+Florentia,Barrand,Cuba,Infiniti,1986,2812.59
+Ernesto,Kelwaybamber,Poland,Lincoln,1994,3908.52
+Terri,Yukhnin,Germany,Mercedes-Benz,1990,3338.28
+Cacilia,Caesar,Thailand,Honda,1981,1993.86
+Anton,Seamarke,Russia,Oldsmobile,2006,4907.43
+Ripley,Chalcot,Chile,Saab,1975,34164.9
+Elsey,Wellbeloved,Colombia,Volvo,1993,3224.43
+Gaspar,Gillcrist,France,Audi,1995,2081.97
+Chantal,Crawforth,Kazakhstan,GMC,1996,4356
+Andie,Mildmott,China,Ford,1970,27878.4
+Teodora,Blowne,Japan,Volkswagen,1993,3497.67
+Patrick,Ellison,France,Suzuki,1971,27126.99
+Janaya,Hedgeley,Peru,Honda,2001,14305.5
+Nils,Dodshun,Ireland,Nissan,1978,22461.12
+Rutherford,Speere,Ukraine,Mazda,2016,44932.14
+Ursuline,Ballham,Dominican Republic,Ford,1979,24556.95
+Susanetta,Nussen,Poland,Ford,2020,12392.82
+Kiri,Willimott,Panama,Dodge,1982,2339.37
+Fidole,Hillin,Indonesia,BMW,1985,2616.57
+Sibilla,Shurey,Pakistan,Subaru,1988,1623.6
+Falkner,Lawrance,Nigeria,Honda,1997,2181.96
+Dalia,Prestwich,Slovenia,Mercedes-Benz,1997,4926.24
+Corena,Kippen,Morocco,Hyundai,1980,1793.88
+Brigg,Otton,Ukraine,Chevrolet,1993,3095.73
+Brana,McAvaddy,Slovenia,GMC,1984,1494.9
+Gamaliel,Carlsen,China,Hyundai,1975,32532.39
+Demetra,Pauly,Poland,Dodge,1973,33510.51
+Jillene,Randle,Sri Lanka,BMW,1994,3145.23
+Casie,Purdey,Pakistan,Mercury,2000,4962.87
+Nichole,Bolland,China,Mitsubishi,1975,26214.21
+Tommy,Bennis,Ivory Coast,Chevrolet,1986,2780.91
+Vanya,Mardle,Portugal,Lincoln,1984,2522.52
+Dominique,Slegg,Philippines,Buick,1981,2327.49
+Dorey,Folini,Ukraine,Land Rover,1979,29778.21
+Rollie,Bartholomieu,Sweden,Volvo,1983,1737.45
+Denney,Woodlands,Indonesia,Pontiac,2009,7107.21
+Lin,Downton,Ukraine,Bentley,2006,4046.13
+Noe,Halworth,China,Hyundai,1972,25122.24
+Flint,Menichi,Poland,Ram,2008,7705.17
+Wanda,Marten,China,Chevrolet,2014,27768.51
+Rois,Verdy,Indonesia,Lincoln,1988,1718.64
+Lacie,Aucock,China,Jaguar,1985,2958.12
+Zane,Wank,Peru,BMW,2003,14838.12
+Rodolph,Borge,Russia,Ford,1972,23576.85
+Sandy,Matveyev,Albania,Toyota,2004,6950.79
+Joyce,Olufsen,New Zealand,Toyota,1975,31520.61
+Marlo,Winwright,Nigeria,Ford,1982,1827.54
+Wildon,Barrows,China,Mitsubishi,2001,13787.73
+Hugh,Folan,China,Ford,2009,12680.91
+Jerome,McClintock,China,Volkswagen,2013,42324.48
+Burl,Schott,Ethiopia,MINI,1976,25159.86
+Delainey,Sipson,Nigeria,Volkswagen,1974,32403.69
+Mirna,Gibard,France,Geo,2003,7840.8
+Emmie,O'Flannery,Guatemala,Chevrolet,1997,4281.75
+Barris,Ivy,Brazil,Ford,1997,2376.99
+Emery,Brockest,United States,Audi,2000,10493.01
+Jenni,Jordi,Micronesia,GMC,1989,2408.67
+Cristionna,Cotterrill,Mexico,BMW,2000,11401.83
+Maudie,McGaraghan,China,Chevrolet,1998,4401.54
+Barry,Gaskin,Croatia,Mercedes-Benz,2013,37926.9
+Doro,Garnsey,Lithuania,Oldsmobile,1990,2480.94
+Ines,Kollasch,Colombia,Audi,1987,1584
+William,Passie,China,Mercedes-Benz,1979,26270.64
+Libbi,Scowen,China,Mazda,1974,22107.69
+Annemarie,Channon,China,Land Rover,1993,3721.41
+Ashton,Westnedge,Peru,Saturn,1985,2005.74
+Reggie,Samber,Nepal,Lexus,2005,5527.17
+Maurits,Elmer,France,BMW,1980,2056.23
+Junie,Dandison,China,Ford,2020,19195.11
+Beverlee,Clunan,Russia,Saturn,2015,21840.39
+Moreen,John,Cuba,Maybach,2015,25947.9
+Nikolaos,Prenty,Netherlands,Ford,2013,34906.41
+Stanton,Ellice,Ireland,Jeep,2020,29275.29
+Orion,Yaus,Pakistan,Chevrolet,1986,2606.67
+Kayle,Maud,Vietnam,Chevrolet,2005,10732.59
+Lina,Shailer,Serbia,Ford,2012,23470.92
+Ebenezer,Mongan,France,Suzuki,1991,3925.35
+Lydon,Acum,Indonesia,Volkswagen,1999,4511.43
+Nissie,Webber,China,Chrysler,1989,2950.2
+Fabian,Broadis,Zambia,Chevrolet,1970,30951.36
+Krishna,Bleaden,China,Isuzu,1975,26301.33
+Valeria,Cayzer,Philippines,Chrysler,1980,2762.1
+Lev,Meedendorpe,Jordan,Audi,1990,3172.95
+Maxy,Peregrine,Palestinian Territory,Chevrolet,1983,1880.01
+Aubine,Crawcour,Kenya,Chevrolet,1984,2047.32
+Blane,Ferrillio,Sweden,Dodge,1974,31934.43
+Saloma,Bingham,Indonesia,Mercury,1971,21841.38
+Moe,Imesen,United States,Chevrolet,2007,9706.95
+Kristofor,Ropp,Japan,Mitsubishi,1980,1831.5
+Lena,Pays,Japan,Ram,1975,24015.42
+Immanuel,Wey,Indonesia,Dodge,2005,14285.7
+Karlens,Acklands,United States,Cadillac,1988,1668.15
+Ethelyn,Chieco,China,Dodge,1975,34194.6
+Dania,Shoreman,Poland,Ford,2004,12639.33
+Caitrin,Weinberg,Russia,MINI,1983,2108.7
+Virgil,Huxtable,Macedonia,Audi,2004,12925.44
+Sunny,Helks,Venezuela,BMW,2013,24043.14
+Charlie,Bartomieu,Ireland,Lexus,1995,2510.64
+Vidovik,Cranstone,Tanzania,Audi,1999,4617.36
+Even,Arzu,South Korea,GMC,1979,26292.42
+Bear,Gitthouse,Russia,Audi,1991,4664.88
+Melba,Palmer,France,Honda,1979,21623.58
+Jordain,Brawn,Indonesia,Alfa Romeo,2004,13527.36
+Kingsly,O' Sullivan,Panama,Chevrolet,1986,1537.47
+Lucita,Ivashin,United States,Ford,1982,1961.19
+Carmencita,Tompion,Russia,Hyundai,2007,9727.74
+Yvonne,Sayes,China,Chevrolet,1975,26111.25
+Johannah,Dellatorre,Sweden,Lexus,1996,3652.11
+Gerard,Clewlowe,China,Mercedes-Benz,2012,47618.01
+Cristen,Scates,Russia,Saturn,1995,4161.96
+Judas,Bain,China,GMC,1996,2379.96
+Dominique,Slarke,Russia,Buick,2011,44174.79
+Nathanael,Girardin,Ukraine,Nissan,1978,32059.17
+Clarence,Cheyney,Sweden,Volkswagen,1976,20807.82
+Risa,Regis,China,Volkswagen,1971,20549.43
+Hewitt,Kornel,Morocco,Buick,2009,12576.96
+Jayme,Sherland,Brazil,Mazda,2006,6910.2
+Riva,Ianniello,Indonesia,Chevrolet,1997,3648.15
+Nicky,Keeping,Nigeria,MINI,1981,2593.8
+Tiler,Durdan,Japan,Volkswagen,1985,2400.75
+Correy,Drummer,Thailand,Hyundai,2000,14543.1
+Kathryne,Joyes,Indonesia,Lexus,1974,28477.35
+Cynthie,Cassius,Indonesia,Lexus,2011,38866.41
+Jedd,Iacabucci,China,Mercedes-Benz,1991,3148.2
+Manolo,Vondrys,Syria,Isuzu,1973,33334.29
+Pris,Willan,Philippines,Jeep,2003,10314.81
+Atlante,Pigny,Czech Republic,Mercedes-Benz,1994,2415.6
+Wilden,Coon,China,Mercury,2011,22176.99
+Benedetta,Eddington,Namibia,Suzuki,2001,10006.92
+Mord,Nilges,Nigeria,Land Rover,2001,6597.36
+Jamaal,Jurczik,Indonesia,Mitsubishi,1999,2328.48
+Dorri,Linnitt,Colombia,GMC,2008,11904.75
+Frederica,Lilleycrop,France,Lexus,1977,28154.61
+Sharity,Huggin,France,Chevrolet,2014,39180.24
+Ingar,Astell,Japan,Mitsubishi,1995,3778.83
+Byrle,Fairleigh,Russia,Toyota,1998,2938.32
+Grethel,Saffon,France,Mazda,1989,2007.72
+Denney,Burghall,Canada,Suzuki,1976,31980.96
+Imogen,Dwyr,France,Pontiac,2007,10370.25
+Killie,Elkins,Ukraine,Dodge,1974,29727.72
+Sonny,Crebott,Brazil,Porsche,2013,28446.66
+Dalli,Dowgill,Zimbabwe,Toyota,2018,39961.35
+Dottie,Kitson,Russia,Ford,2018,18453.6
+Justin,Merriton,Indonesia,Porsche,1971,26935.92
+Hermine,Presshaugh,Philippines,Nissan,2012,23612.49
+Eberhard,Itzhayek,China,Ford,2015,39063.42
+Blayne,Pordall,Bosnia and Herzegovina,Acura,1995,3865.95
+Nani,Atterley,Russia,Hyundai,1996,3586.77
+Tandie,Balstone,Honduras,Buick,1994,3921.39
+Kai,Roskam,Thailand,Isuzu,2015,24538.14
+Isak,Browett,Brazil,Honda,2003,9876.24
+Roarke,Howsley,China,Nissan,1971,34477.74
+Meier,Haszard,Russia,Nissan,1985,2088.9
+Bren,McKeaney,China,Kia,1971,29158.47
+Haskel,Routledge,France,Chevrolet,2016,27932.85
+Clevie,Scarrisbrick,Poland,Chrysler,1988,2577.96
+Juli,Fearneley,Ecuador,GMC,1972,20453.4
+Kai,Ortner,Haiti,Plymouth,2013,14137.2
+Noland,Bowland,Ireland,Toyota,2012,19949.49
+Mollee,Verrillo,Philippines,Honda,2004,10676.16
+Nikolia,Velden,Bulgaria,Chevrolet,2018,26440.92
+Henrieta,Strudwick,China,MINI,1994,4554.99
+Prudence,Broadwell,Portugal,Mazda,2011,38403.09
+Marena,MacDonnell,Burkina Faso,Ford,1989,2180.97
+Geno,Burth,United Kingdom,Porsche,2006,6299.37
+Genny,Menaul,Mexico,Mercury,2014,18737.73
+Marget,Biesterfeld,China,Mercury,1989,1588.95
+Culley,Hans,Russia,Volkswagen,2010,22894.74
+Natalya,Dowzell,Philippines,Buick,2000,12206.7
+Ruby,Woollcott,Peru,Chevrolet,2014,43126.38
+Rube,Tabourier,Portugal,Studebaker,1985,2821.5
+Fanni,Tomczak,Costa Rica,Honda,1983,1883.97
+Marilin,Tillyer,China,Dodge,2012,19386.18
+Abdul,Creavin,Democratic Republic of the Congo,Plymouth,1977,23994.63
+Rik,Bogaert,Russia,Mercury,1996,3782.79
+Kain,Troctor,Canada,Chevrolet,1978,27423.99
+Joelynn,Merrydew,Sweden,Ford,1997,2113.65

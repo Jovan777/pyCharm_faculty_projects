@@ -1,0 +1,500 @@
+rhylands0,M,Czech Republic,Montenegrin,,
+nyaakov1,F,China,Punjabi,,
+amurrow2,M,United States,Czech,,
+ggye3,M,Poland,Azeri,Dari,
+cbowra4,F,Indonesia,Hiri Motu,Irish Gaelic,
+jsywell5,M,Indonesia,Telugu,,
+djallin6,F,Ecuador,Lithuanian,Fijian,
+fbettington7,F,Syria,Zulu,,
+sjopke8,M,United States,Tajik,,
+hteager9,M,Portugal,Korean,Nepali,Fijian
+mfrenzela,F,Indonesia,Burmese,German,
+flappineb,M,Czech Republic,Zulu,Polish,Swahili
+bnesterc,F,Indonesia,New Zealand Sign Language,,
+rhammerichd,F,China,Tsonga,Armenian,
+grebillarde,F,Republic of the Congo,Hindi,,
+rilewiczf,M,Peru,Hungarian,,
+hprozillog,F,Greece,Catalan,Danish,Dzongkha
+afeldbauh,M,China,Malay,,
+mjakoubi,M,China,Dhivehi,Oriya,
+rcarpj,F,China,Tswana,Icelandic,
+ltearlek,F,China,Tamil,Finnish,
+hlarventl,M,China,New Zealand Sign Language,German,
+acushem,F,France,Burmese,Amharic,
+tkleimtn,F,Brazil,Maltese,Telugu,
+evischio,F,China,Greek,Irish Gaelic,
+pkovelmannp,M,Poland,English,,
+rfiorentinoq,F,Peru,Gagauz,,
+aabelevitzr,F,Dominican Republic,Gagauz,Filipino,Portuguese
+ptroughtons,M,Guatemala,Hiri Motu,,
+apersset,F,China,Czech,Tajik,
+ebatmanu,F,Brazil,Armenian,,
+cvarnev,M,Philippines,Haitian Creole,,
+hdahlenw,F,China,Oriya,,
+sgatrellx,M,Philippines,Hebrew,,
+bmarriony,M,China,Dzongkha,Arabic,West Frisian
+obaxz,M,Indonesia,Telugu,Bulgarian,
+lottiwill10,M,Russia,Lithuanian,,
+nsherrott11,F,Peru,Thai,Estonian,Luxembourgish
+theathorn12,F,Indonesia,Estonian,Albanian,
+heaken13,F,Philippines,Finnish,Punjabi,
+toclovan14,M,Azerbaijan,Hebrew,Dutch,
+fgionettitti15,M,Philippines,Sotho,Lao,
+jmashro16,M,Indonesia,Lithuanian,,
+jmitchelhill17,M,Greece,Burmese,Albanian,
+abanton18,M,China,Montenegrin,,
+bgalton19,F,China,Luxembourgish,Malay,
+bkilmurry1a,F,Indonesia,Italian,Polish,Burmese
+twhooley1b,M,China,Chinese,,
+arenfrew1c,M,Laos,Northern Sotho,Norwegian,
+cheal1d,F,Japan,Dutch,,
+cchurm1e,M,Poland,Telugu,Belarusian,
+ymcgilben1f,M,Albania,Bulgarian,Malagasy,Irish Gaelic
+znafziger1g,M,Brazil,Ndebele,Lao,
+mkeller1h,F,Peru,Luxembourgish,Malagasy,
+nperch1i,M,Poland,Kazakh,Khmer,
+astolberg1j,M,Indonesia,Greek,Maltese,Kyrgyz
+bjaulme1k,M,Tanzania,Tswana,,
+sjehan1l,F,Czech Republic,Malayalam,Filipino,
+omottershaw1m,F,Ukraine,Hungarian,,
+cpennycook1n,M,Brazil,French,Bengali,
+ebessent1o,F,Indonesia,New Zealand Sign Language,,
+cbrendish1p,M,China,Bislama,Tamil,
+blapidus1q,M,Czech Republic,Maori,,
+dthyng1r,F,Kazakhstan,Bislama,,
+ckupisz1s,M,Poland,Hindi,Kazakh,
+agallico1t,F,China,Spanish,Indonesian,
+dgelsthorpe1u,F,Haiti,Hungarian,Albanian,
+mrennles1v,M,Albania,Montenegrin,Kazakh,
+glangdale1w,F,Russia,Malagasy,Azeri,
+swarbrick1x,F,China,Lithuanian,Burmese,
+tragsdale1y,F,China,French,Bengali,Korean
+troeby1z,M,Brazil,Gujarati,French,
+flouth20,F,Greece,Tajik,Swati,
+atschirschky21,F,Czech Republic,Belarusian,Dhivehi,
+cheathfield22,M,China,Chinese,Arabic,
+hsirmon23,M,China,Burmese,French,
+krickett24,F,Portugal,Tsonga,Romanian,Ndebele
+pswyre25,M,Denmark,Irish Gaelic,,
+djilkes26,M,China,Dutch,Bulgarian,
+lcholonin27,M,Philippines,Afrikaans,,
+mpearse28,M,Thailand,Chinese,,
+deast29,F,Poland,Marathi,New Zealand Sign Language,Pashto
+tchantillon2a,M,Portugal,Amharic,,
+mcabotto2b,F,Canada,Malayalam,,
+nrummings2c,M,Philippines,Danish,Kyrgyz,
+eings2d,F,China,Fijian,,
+bvittel2e,F,Poland,Kazakh,Hiri Motu,
+ljaniak2f,M,Russia,Tajik,,
+gattenborough2g,F,Russia,Dari,Macedonian,
+celcock2h,F,China,Bislama,,
+habrahamoff2i,M,France,Albanian,Ndebele,
+gderges2j,F,China,Icelandic,Malay,
+egreensitt2k,F,Poland,Icelandic,Tajik,Kannada
+mtichelaar2l,F,Russia,Telugu,Greek,Bosnian
+geade2m,F,Russia,Quechua,,
+mambrozewicz2n,F,Costa Rica,Tok Pisin,Kazakh,
+cbickersteth2o,M,Philippines,Aymara,Latvian,
+tharriagn2p,F,China,Maltese,Amharic,
+bphilipson2q,F,France,Aymara,Telugu,
+asawdy2r,F,France,Bengali,,
+nliverseege2s,F,Ukraine,Bulgarian,Maori,Arabic
+atessier2t,M,Indonesia,Hindi,Tetum,
+gcouves2u,F,Kuwait,Hindi,,
+ateek2v,M,Portugal,German,,
+mlund2w,M,Sweden,Belarusian,Tetum,
+aswarbrigg2x,M,China,Lao,Swedish,
+lfilon2y,F,Russia,Swati,Luxembourgish,
+hpllu2z,F,Sweden,Polish,Dari,Montenegrin
+mtaggett30,F,Syria,Burmese,Mongolian,
+lpoint31,F,Brazil,Tetum,Lithuanian,Hiri Motu
+nleaton32,M,Philippines,West Frisian,,
+cshadwick33,M,Indonesia,Kyrgyz,,
+nmarquand34,F,Argentina,Greek,Montenegrin,Bengali
+mrusson35,M,Indonesia,Malayalam,Nepali,
+rwilmore36,M,Colombia,Somali,Polish,
+geakly37,M,Poland,Italian,Swahili,
+rcroysdale38,M,Nigeria,Kazakh,Malay,Pashto
+rbreem39,F,Philippines,Chinese,Maltese,Bulgarian
+rgarbutt3a,F,Poland,Icelandic,,
+thawe3b,M,Philippines,Dzongkha,Bengali,New Zealand Sign Language
+pmechic3c,F,Indonesia,Polish,Oriya,Afrikaans
+mboots3d,M,Canada,Kazakh,Amharic,Moldovan
+ggurden3e,M,United States,Sotho,Kannada,
+vjose3f,M,Ghana,Japanese,Lithuanian,Somali
+llorenc3g,F,Colombia,Khmer,Malayalam,
+kjeste3h,F,Philippines,Bengali,Oriya,
+crichings3i,M,China,Northern Sotho,Burmese,Somali
+wpoore3j,M,United Arab Emirates,Gujarati,,
+calbany3k,M,France,Maori,Macedonian,
+vpetow3l,M,Canada,Filipino,Tajik,Bislama
+kwharfe3m,F,Indonesia,Kannada,Swati,
+gstruijs3n,M,Russia,Malayalam,Malay,
+cillyes3o,F,Ivory Coast,Catalan,Dhivehi,
+cjacox3p,M,China,German,Tok Pisin,
+ofliege3q,M,Greece,Malagasy,Korean,
+ajelley3r,M,Iran,Norwegian,,
+wbaff3s,M,Bosnia and Herzegovina,Afrikaans,Swati,
+llismer3t,F,China,Maltese,Fijian,
+tnannoni3u,M,Canada,Afrikaans,Catalan,
+wdudson3v,M,Japan,Croatian,Bengali,Tamil
+rutridge3w,M,Colombia,Pashto,Bislama,
+lmcclurg3x,M,Haiti,Sotho,Afrikaans,Quechua
+fbattlestone3y,F,Tunisia,English,Tok Pisin,
+iflatt3z,F,Georgia,Malay,,
+ysockell40,M,Venezuela,Filipino,,
+dlansberry41,F,Morocco,Belarusian,Dzongkha,Nepali
+iingledew42,M,Philippines,Arabic,,
+bchinnock43,M,Brazil,Albanian,Italian,
+ckidby44,M,Philippines,Kurdish,Yiddish,Burmese
+kfeake45,F,Indonesia,Bulgarian,,
+rhaggeth46,M,Philippines,English,Northern Sotho,
+hclausen47,M,Latvia,Tajik,,
+mmulvin48,F,Greece,Marathi,Fijian,
+gmarkwell49,F,Ukraine,Italian,Nepali,Dari
+carmfirld4a,M,France,Malay,Burmese,
+astellman4b,F,Indonesia,Tamil,Swati,
+dtague4c,F,Germany,Dari,Korean,
+kswoffer4d,M,Russia,Macedonian,,
+odruery4e,M,Canada,Montenegrin,Swati,Bislama
+astonebanks4f,F,Indonesia,Latvian,Khmer,Hungarian
+amerington4g,M,Hungary,English,Oriya,
+fedgson4h,M,Brazil,Arabic,Spanish,Maori
+cvesco4i,F,Myanmar,German,Dhivehi,
+mcloney4j,M,Indonesia,Armenian,Tok Pisin,
+mfancutt4k,F,Uruguay,Punjabi,Bulgarian,Norwegian
+kjaram4l,F,Philippines,Estonian,Tswana,
+caburrow4m,M,China,Zulu,Fijian,
+osaintepaul4n,M,Brazil,Oriya,Bulgarian,
+lkift4o,M,China,Luxembourgish,,
+rbubbings4p,F,Portugal,Afrikaans,Tetum,Marathi
+smartugin4q,F,China,Tetum,,
+mbenger4r,M,France,Malay,Catalan,
+kraveau4s,M,China,Zulu,Dari,
+hhuglin4t,M,Indonesia,Yiddish,Dutch,
+fmcvie4u,F,Portugal,Kazakh,English,
+msherrocks4v,F,Peru,Lithuanian,Chinese,
+dmacrannell4w,F,Cuba,Dari,Azeri,
+abaldassi4x,M,Greece,Malayalam,,
+lbirds4y,F,China,Afrikaans,Thai,Pashto
+plucio4z,F,China,Belarusian,Marathi,
+landrag50,M,Philippines,Tok Pisin,Italian,Finnish
+tbaden51,M,Kenya,English,Chinese,
+bchristal52,M,China,Amharic,,
+cdurbridge53,F,Poland,Assamese,New Zealand Sign Language,Kazakh
+egoley54,F,Micronesia,Mongolian,Latvian,
+stowe55,F,Indonesia,Sotho,,
+gpedrollo56,M,Tanzania,Filipino,Irish Gaelic,Tajik
+afolks57,F,China,Swati,,
+hpoundsford58,F,Indonesia,Hebrew,,
+gferrieres59,M,Portugal,Punjabi,Montenegrin,
+cleagas5a,M,Russia,Tetum,,
+bharder5b,F,China,Korean,Polish,
+bdeane5c,M,Japan,Belarusian,Dzongkha,
+pweightman5d,F,China,Estonian,Kannada,Azeri
+ggreedy5e,F,Indonesia,German,Kyrgyz,
+efenkel5f,F,Tunisia,Ndebele,,
+msedge5g,M,Spain,Belarusian,Finnish,
+iscranedge5h,F,China,Albanian,Finnish,Croatian
+dtinkler5i,M,Afghanistan,Dari,,
+clebosse5j,M,China,Haitian Creole,,
+fkuhndel5k,F,Thailand,Tok Pisin,,
+bmacclay5l,F,Russia,Tsonga,,
+rgoulter5m,M,China,Malagasy,,
+tescritt5n,M,Kenya,Kurdish,Hindi,
+edurnall5o,M,Czech Republic,Swati,Persian,
+kbelford5p,M,China,Telugu,Luxembourgish,Estonian
+eworsley5q,M,China,English,,
+orolls5r,M,China,Kyrgyz,Yiddish,
+dsineath5s,M,Philippines,Hungarian,,
+mjeandot5t,M,Indonesia,Dzongkha,Armenian,
+mmatschke5u,F,Cape Verde,Punjabi,,
+asueter5v,M,France,Lao,West Frisian,
+hwaslin5w,F,China,Oriya,Gujarati,
+clauchlan5x,F,China,Albanian,Nepali,English
+mreynold5y,M,Colombia,Albanian,,
+esteffens5z,M,Colombia,Guaran¡,,
+eduigenan60,M,France,Papiamento,Hebrew,
+asponer61,F,Tanzania,Hiri Motu,Tetum,New Zealand Sign Language
+cantonsson62,F,Indonesia,Estonian,,
+scorah63,F,Czech Republic,Croatian,,
+ncassels64,F,China,Swedish,Sotho,
+hbandey65,F,Brazil,Arabic,Maori,
+wgowans66,F,France,Icelandic,Hungarian,
+ttatam67,F,Indonesia,Hungarian,Lao,
+rswyre68,F,Ukraine,Kannada,,
+npalatini69,M,China,Spanish,Catalan,
+omoakson6a,F,Pakistan,Gagauz,Maori,
+rschimonek6b,F,Indonesia,Hebrew,,
+ywiggington6c,F,Ireland,Sotho,,
+zmacculloch6d,F,China,Croatian,Guaran¡,
+bburgh6e,F,Colombia,Romanian,Dutch,
+dobert6f,M,Zambia,Catalan,Azeri,
+mdedenham6g,M,Mexico,Icelandic,Greek,Afrikaans
+smcgiveen6h,F,Russia,Punjabi,,
+lfilyaev6i,M,Greece,Moldovan,,
+tbroxap6j,M,Croatia,Afrikaans,Hungarian,
+ftreagus6k,M,Indonesia,Luxembourgish,Hindi,
+dhartzenberg6l,F,Luxembourg,Swedish,,
+tpettyfer6m,M,Sweden,Papiamento,Bislama,Macedonian
+dartus6n,M,Russia,Armenian,,
+dpillans6o,F,Argentina,Bulgarian,,
+tornillos6p,M,Indonesia,Finnish,Ndebele,
+elongstaffe6q,M,Colombia,Swati,,
+llangthorne6r,F,Philippines,Punjabi,Dhivehi,
+cgodspeede6s,F,Morocco,Maltese,Bosnian,Kannada
+mjindracek6t,F,China,Zulu,Kurdish,
+ibiggin6u,F,China,Sotho,Oriya,
+gcurnow6v,F,Russia,Armenian,Albanian,
+woris6w,M,Philippines,Hebrew,Georgian,
+bricardou6x,M,Belarus,Aymara,Malagasy,
+iradley6y,F,Philippines,Hindi,,
+ltrahear6z,M,China,Tamil,Bosnian,
+ldowning70,F,Thailand,Spanish,Montenegrin,
+hcromarty71,M,Russia,Marathi,Korean,
+fbickley72,F,China,Guaran¡,Ndebele,
+ysturt73,F,South Korea,Spanish,,
+ushoubridge74,M,Russia,Hebrew,Czech,Portuguese
+sscholz75,M,North Korea,Quechua,Tetum,Albanian
+srivers76,F,Dominican Republic,Chinese,Tswana,
+wbaiden77,F,Honduras,Burmese,,
+cwarrell78,F,China,Hiri Motu,Northern Sotho,
+lbouch79,F,Indonesia,Danish,French,
+cbertomier7a,F,Niger,Kashmiri,Assamese,
+ekulicke7b,M,Russia,Amharic,,
+tboothby7c,M,China,Spanish,Sotho,
+byitshak7d,F,Argentina,Greek,,
+nowers7e,M,Ukraine,Japanese,Bulgarian,Estonian
+edevorill7f,F,China,Punjabi,Gagauz,
+chaysham7g,M,China,Sotho,Arabic,
+jgayter7h,M,China,Dutch,Croatian,Kurdish
+khynam7i,M,Sweden,Dutch,Bengali,Guaran¡
+aebdon7j,M,Czech Republic,Pashto,Estonian,
+mmundford7k,M,Venezuela,Spanish,Swahili,
+dtrengrove7l,M,United States,Tamil,New Zealand Sign Language,Bengali
+dcasotti7m,F,Russia,Telugu,,
+eshales7n,M,Canada,Maltese,,
+jetherson7o,M,China,Greek,Aymara,
+ewolfindale7p,F,South Africa,French,Gagauz,Korean
+brounding7q,M,France,Italian,Haitian Creole,
+aguttridge7r,F,Indonesia,Bislama,,
+afelten7s,F,Sierra Leone,Portuguese,Dhivehi,
+dlarkin7t,F,China,Lithuanian,Croatian,
+kroderighi7u,F,China,Dutch,Azeri,
+cmatula7v,M,Ukraine,Pashto,Swahili,
+etapner7w,M,China,Malagasy,,
+kbaptiste7x,M,China,Polish,Tswana,Thai
+dgreaterex7y,M,China,Macedonian,,
+kvanshin7z,M,Indonesia,Somali,,
+hjanuszewski80,F,Oman,Burmese,Zulu,
+smellers81,F,Colombia,Armenian,Ndebele,
+erodder82,F,Guatemala,Arabic,Oriya,Bosnian
+rarlet83,F,China,Gujarati,,
+aabden84,F,China,Persian,,
+hcharer85,F,Indonesia,Persian,Italian,
+ascain86,M,Indonesia,Hungarian,Aymara,
+sdog87,F,Tunisia,Aymara,,
+dwoodfine88,M,Indonesia,German,Tsonga,
+mgarnsey89,M,Poland,Croatian,Lithuanian,
+asercombe8a,F,Iran,Finnish,,
+ghatry8b,F,Bosnia and Herzegovina,Indonesian,West Frisian,Danish
+dsaill8c,F,Indonesia,Japanese,,
+aregelous8d,M,Lithuania,Oriya,Punjabi,Thai
+eatyea8e,F,Myanmar,English,Yiddish,Dzongkha
+rlympenie8f,F,China,Malayalam,,
+rquinnet8g,F,China,Croatian,,
+jlinklater8h,F,Democratic Republic of the Congo,Kyrgyz,New Zealand Sign Language,
+mnaismith8i,F,Colombia,Korean,Khmer,
+tfahey8j,F,United States,Mongolian,,
+idiloway8k,F,Brazil,Hiri Motu,,
+bpossell8l,M,China,Montenegrin,Maori,
+fvescovo8m,M,Norway,Hiri Motu,,
+hsmithe8n,F,Argentina,French,Kurdish,Yiddish
+ahatto8o,F,China,Persian,English,
+tdzeniskevich8p,M,Philippines,Malagasy,English,Gujarati
+doxlee8q,M,France,Tswana,,
+chardway8r,F,Yemen,Kashmiri,Ndebele,
+omollison8s,M,China,Kannada,Catalan,Latvian
+rfarndon8t,F,China,Kurdish,,
+dhouchen8u,M,Portugal,Swedish,,
+cmackeig8v,M,China,Tsonga,Bislama,
+rdommett8w,F,Israel,Croatian,,
+tabatelli8x,M,Martinique,Spanish,Norwegian,
+nwinwood8y,F,Russia,Telugu,,
+lmbarron8z,F,Bosnia and Herzegovina,Georgian,Lao,
+ifitchet90,F,United States,Tajik,Filipino,
+lshaxby91,F,Greece,Chinese,Swedish,
+gwalch92,F,Thailand,Kyrgyz,,
+ncowtherd93,F,Nauru,Hiri Motu,,
+vdavidowich94,F,Czech Republic,Swedish,Tetum,Irish Gaelic
+vslight95,F,Iraq,Maori,Estonian,
+glensch96,M,Greece,Lithuanian,Dari,
+ssidary97,M,Russia,Polish,Italian,Fijian
+akybird98,M,Greece,Luxembourgish,Dutch,Kyrgyz
+ncaldaro99,M,Indonesia,Moldovan,Armenian,
+akehir9a,F,Indonesia,Dzongkha,Kannada,
+lcowling9b,M,Iran,Danish,Korean,Pashto
+paistrop9c,F,China,Czech,Catalan,Thai
+awinfindale9d,M,Portugal,Dhivehi,Arabic,Croatian
+fgrombridge9e,M,Finland,Japanese,,
+lnicol9f,F,Ecuador,Chinese,Punjabi,Maori
+lberringer9g,M,Thailand,Hiri Motu,Maori,Assamese
+ncund9h,M,China,Luxembourgish,Malay,
+omagarrell9i,F,Indonesia,Luxembourgish,,
+esambiedge9j,F,Argentina,Tsonga,Lao,Dhivehi
+ttomaini9k,M,Argentina,French,Afrikaans,
+aprudence9l,F,Indonesia,Papiamento,Irish Gaelic,Malagasy
+ndun9m,M,Portugal,Indonesian,Romanian,Hindi
+vplinck9n,F,Philippines,Burmese,Bosnian,
+ksunshine9o,F,China,Assamese,Korean,
+settridge9p,F,Yemen,Lithuanian,Kannada,Hindi
+ijubb9q,F,China,Danish,,
+emcnea9r,F,China,Dhivehi,Icelandic,
+ewisher9s,M,Czech Republic,Afrikaans,Malay,Portuguese
+mpedrazzi9t,M,China,French,Oriya,
+cmattia9u,F,Belarus,Khmer,Quechua,Northern Sotho
+amulleary9v,F,United States,Fijian,Dzongkha,
+ddrews9w,M,Guadeloupe,Fijian,Somali,
+bcage9x,M,China,Armenian,Lithuanian,Indonesian
+idugmore9y,F,Finland,Kashmiri,Belarusian,
+rgriffoen9z,M,China,Montenegrin,,
+kdowa0,M,Argentina,Bislama,New Zealand Sign Language,Tajik
+idrana1,F,Peru,Danish,,
+tollina2,M,Portugal,Swati,Gujarati,
+omarcussena3,F,Germany,Hindi,Croatian,
+jbalnavesa4,F,Sweden,Kyrgyz,Guaran¡,
+lhaddestona5,M,Portugal,Catalan,,
+qmccrachena6,M,Indonesia,Estonian,Norwegian,
+nripinga7,F,Estonia,Spanish,,
+mbingella8,F,Indonesia,Assamese,,
+ajervisa9,F,Poland,Belarusian,Italian,
+afalkousaa,M,Netherlands,Albanian,Georgian,Chinese
+gknokab,M,Indonesia,Lao,Yiddish,
+meplettac,M,Malaysia,Papiamento,,
+sstormonthad,F,Indonesia,Assamese,Hebrew,
+pbricknallae,F,China,Arabic,,
+cabelevitzaf,F,Indonesia,Dutch,Dari,
+jphillipsag,F,United States,Luxembourgish,Dari,Guaran¡
+acollimoreah,M,China,Guaran¡,Indonesian,Croatian
+amacmeekanai,F,Mexico,Kyrgyz,Thai,
+eeavesaj,M,China,Tajik,Maltese,
+cmclennanak,F,China,Assamese,Somali,
+ldulakeal,M,United States,Kannada,,
+jgatchellam,F,Colombia,Swedish,Bosnian,Kazakh
+houldan,M,France,Swahili,Albanian,Telugu
+kmalterao,F,Philippines,Haitian Creole,Portuguese,
+cforreap,M,Philippines,Malayalam,Tajik,Persian
+ploweraq,F,Nigeria,Papiamento,,
+mcrottyar,M,Portugal,Tsonga,,
+mtebbuttas,M,Poland,West Frisian,Sotho,
+sdomoniat,F,China,Bengali,,
+eashurstau,F,Ukraine,Arabic,Sotho,
+fankrettav,M,Mexico,Dutch,,
+abixleyaw,M,Nigeria,Hebrew,Haitian Creole,Tetum
+meadmeadesax,F,Peru,Sotho,Yiddish,
+druggeay,F,Honduras,Tswana,Marathi,
+csolleyaz,F,Sweden,Amharic,New Zealand Sign Language,
+isebbornb0,M,Philippines,Lao,Ndebele,
+fambrodib1,F,Syria,Tsonga,,
+vbassilashvilib2,F,United States,Italian,Armenian,Japanese
+rbillhamb3,M,Honduras,Thai,Haitian Creole,Greek
+gtremaineb4,M,United States,Khmer,Tsonga,Burmese
+skeeseb5,F,China,Hiri Motu,Afrikaans,
+hdowningb6,F,Guatemala,Oriya,Polish,
+mlangeb7,F,United Kingdom,Portuguese,,
+wbriantb8,M,Peru,Hiri Motu,,
+strittenb9,M,Argentina,Macedonian,Arabic,
+dbricknallba,F,Mexico,Finnish,,
+ldearlbb,M,Philippines,Somali,,
+rdannelbc,M,United States,New Zealand Sign Language,Punjabi,
+jwinksbd,M,Morocco,Khmer,Romanian,
+nringwoodbe,M,Indonesia,Somali,Khmer,Amharic
+astrangwoodbf,F,Sweden,Kurdish,,
+ehockellbg,F,Philippines,Danish,Kannada,
+hagnewbh,M,Bulgaria,Tswana,Norwegian,Hebrew
+fvernerbi,M,Japan,French,,
+rflahivebj,F,Argentina,Georgian,,
+ucuerdallbk,F,Tanzania,Lao,Persian,
+slebandbl,F,Poland,Telugu,,
+tturfordbm,F,Belarus,Quechua,Lithuanian,
+bcammisbn,F,China,Hebrew,Belarusian,Finnish
+ealeksandrovbo,F,Philippines,Croatian,Mongolian,Kazakh
+hcornickbp,F,Philippines,Assamese,Polish,
+aplosebq,M,Poland,Portuguese,Belarusian,Bislama
+lcunniffbr,F,Morocco,Lao,Amharic,Arabic
+cdaudraybs,M,Sweden,Yiddish,Persian,
+dedessbt,F,Bangladesh,Hindi,English,
+ereadittbu,F,Philippines,Pashto,,
+nwhitwambv,M,Thailand,Kannada,Kashmiri,English
+tboscherbw,M,Russia,Papiamento,Punjabi,
+hcroasdalebx,F,Mexico,Malayalam,Bislama,
+lbremeyerby,M,Nigeria,Dhivehi,Arabic,
+ifullbrookbz,M,Saint Helena,Dari,,
+dsollittc0,M,China,Latvian,Croatian,
+afedoronkoc1,F,China,Italian,,
+mphillipsonc2,M,Brazil,Norwegian,Luxembourgish,Hiri Motu
+bmarquandc3,M,Russia,Chinese,Spanish,
+gspykinsc4,F,China,Finnish,Oriya,
+pbrisc5,M,United States,Aymara,Kyrgyz,Malayalam
+cbebbingtonc6,F,China,Bulgarian,Moldovan,
+dchappelowc7,F,Czech Republic,Hiri Motu,Japanese,
+cthomsenc8,F,Zimbabwe,Yiddish,Filipino,Latvian
+gsindallc9,F,Uzbekistan,Aymara,Dzongkha,
+ohrusca,M,Indonesia,Amharic,Bengali,
+hetchescb,M,France,Albanian,,
+durvoycc,F,China,Danish,Hiri Motu,
+chuggardcd,M,Greece,Marathi,Somali,
+bdebischofce,M,Poland,Estonian,Bislama,
+cpietzkecf,F,Cyprus,Maori,Malayalam,
+jhazelgreavecg,M,China,Guaran¡,Oriya,Lithuanian
+mmassych,M,China,Malayalam,Danish,Croatian
+nfenbyci,M,Colombia,Czech,Polish,
+wrobeconcj,F,China,Haitian Creole,,
+nallawayck,M,Mongolia,German,,
+hgeerlingcl,F,China,Swahili,,
+msugarmancm,M,Ukraine,Japanese,New Zealand Sign Language,
+trothoncn,F,Netherlands,Georgian,Belarusian,
+cconnerryco,M,China,Gujarati,Swahili,
+slergancp,M,China,Dari,Guaran¡,Malayalam
+tabarrowcq,F,Japan,Montenegrin,Punjabi,Tswana
+cgreasleycr,M,Kosovo,Kurdish,Belarusian,
+cjinkinscs,F,Indonesia,Afrikaans,Luxembourgish,
+bthirlawayct,F,Iran,Swati,Kyrgyz,
+wglowackicu,M,Philippines,Icelandic,Bosnian,
+loakwoodcv,F,Guatemala,German,Dzongkha,
+bgibbinscw,F,China,Chinese,Quechua,
+bpenyltoncx,F,Indonesia,Dzongkha,,
+fpedroncy,F,Germany,Dzongkha,Swedish,Ndebele
+dziemencz,F,Russia,New Zealand Sign Language,Chinese,Swedish
+mwettond0,M,Mexico,Croatian,Amharic,
+blemonbyd1,F,China,Portuguese,Korean,
+bincognad2,M,Portugal,Montenegrin,Northern Sotho,
+lascraftd3,F,Portugal,Khmer,Kashmiri,
+emckintyd4,M,Russia,Kazakh,,
+zprogerd5,F,Israel,Hiri Motu,,
+ckerswilld6,F,Russia,Tsonga,Bosnian,
+icatherined7,F,Ukraine,Afrikaans,,
+rradouxd8,M,Vietnam,Kazakh,Aymara,Afrikaans
+ddarnbrookd9,M,China,Guaran¡,Dzongkha,
+khalleda,M,France,Danish,Gagauz,
+sviledb,M,Mozambique,English,,
+nladendc,M,Serbia,Georgian,Haitian Creole,
+pscarisbrickdd,M,China,Bosnian,Amharic,Swati
+aluetkemeyersde,F,Peru,Papiamento,Estonian,Kashmiri
+aghelardonidf,F,Portugal,Assamese,Amharic,Japanese
+gyukhovdg,F,Colombia,Dzongkha,Gujarati,Dutch
+pcrowedh,M,Albania,Dhivehi,Afrikaans,Kazakh
+ebowdlerdi,F,Poland,English,Hiri Motu,
+cfranzdj,F,China,Dutch,Romanian,
+ibassetdk,F,Russia,Greek,,
+mivasyushkindl,F,Japan,Bengali,,
+bgarshoredm,F,China,Norwegian,Nepali,Telugu
+gstrowandn,F,Portugal,Montenegrin,Filipino,Lithuanian
+vkingscotedo,F,China,Azeri,Malagasy,West Frisian
+lpagendp,M,Indonesia,Dari,,
+cscattergooddq,M,Ecuador,Pashto,,
+jruberrydr,F,China,Maori,Swati,
+cchinneryds,M,China,Marathi,Northern Sotho,
+jwhardleydt,M,Iraq,Montenegrin,,
+bhorsewooddu,F,United States,Tswana,,
+spayledv,F,China,Maltese,Tsonga,

@@ -1,0 +1,16 @@
+#testiramo da li je broj deljiv i sa 2 i sa 3
+#broj je deljiv sa 2 i sa 3 ako kod oba deljenja ne daje ostatak
+
+
+a=int(input('Unesite bilo koji broj '))
+
+if a % 2 ==0:
+    if a % 3 == 0:
+        print('Broj ', a,' je deljiv i sa 2 i sa 3' )
+    else:
+        print('Broj ', a,' je deljiv sa 2 ali nije sa 3' )
+else:
+    if a % 3 == 0:
+        print('Broj ', a,' je deljiv  sa 3 ali nije sa 2' )
+    else:
+        print('Broj ', a,' nije deljiv ni sa 2 ni sa 3')

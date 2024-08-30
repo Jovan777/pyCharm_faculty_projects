@@ -1,0 +1,322 @@
+Afghanistan Assamese 1 F 5
+Afghanistan Croatian 1 F 5
+Afghanistan Georgian 1 M 5
+Afghanistan Greek 1 F 5
+Afghanistan Haitian Creole 1 F 5
+Afghanistan Malayalam 1 F 5
+Afghanistan Maltese 1 F 5
+Afghanistan Moldovan 1 F 5
+Afghanistan Ndebele 1 F 5
+Albania Aymara 1 M 4
+Albania Chinese 1 F 4
+Albania Czech 1 F 4
+Albania Dzongkha 1 F 4
+Albania Polish 1 F 4
+Albania Quechua 1 F 4
+Albania Tetum 1 M 4
+Angola Papiamento 1 F 2
+Angola Sotho 1 M 2
+Angola Yiddish 1 M 2
+Argentina Swati 2 M 8
+Azerbaijan Hindi 1 F 1
+Bangladesh Icelandic 1 F 1
+Belarus Luxembourgish 1 M 1
+Belarus Tetum 1 M 1
+Belize Dzongkha 1 M 1
+Belize Maori 1 M 1
+Belize Oriya 1 M 1
+Bolivia Dhivehi 1 M 2
+Bolivia Hebrew 1 F 2
+Bolivia Malagasy 1 M 2
+Bolivia Mongolian 1 F 2
+Bolivia Tsonga 1 M 2
+Bosnia and Herzegovina Amharic 1 F 2
+Bosnia and Herzegovina Bulgarian 1 M 2
+Bosnia and Herzegovina Korean 1 F 2
+Bosnia and Herzegovina Kyrgyz 1 F 2
+Bosnia and Herzegovina Macedonian 1 M 2
+Bosnia and Herzegovina Spanish 1 M 2
+Brazil Aymara 2 FM 19
+Brazil Georgian 2 FM 19
+Brazil Hebrew 2 M 19
+Brazil New Zealand Sign Language 2 FM 19
+Bulgaria Albanian 1 F 1
+Canada Italian 2 FM 4
+Chad Tetum 1 M 1
+China Haitian Creole 7 M 99
+Colombia Assamese 1 F 5
+Colombia Catalan 1 F 5
+Colombia Estonian 1 M 5
+Colombia Georgian 1 M 5
+Colombia Haitian Creole 1 M 5
+Colombia Hiri Motu 1 F 5
+Colombia Luxembourgish 1 F 5
+Colombia Macedonian 1 F 5
+Colombia Malayalam 1 M 5
+Colombia Ndebele 1 M 5
+Colombia Pashto 1 M 5
+Costa Rica Dari 1 F 1
+Costa Rica Marathi 1 F 1
+Croatia Guaran¡ 1 F 1
+Cuba Amharic 1 M 2
+Cuba Catalan 1 F 2
+Cuba Hiri Motu 1 F 2
+Czech Republic Arabic 1 M 10
+Czech Republic Bosnian 1 F 10
+Czech Republic Czech 1 M 10
+Czech Republic Dhivehi 1 M 10
+Czech Republic Dutch 1 F 10
+Czech Republic Greek 1 M 10
+Czech Republic Guaran¡ 1 F 10
+Czech Republic Italian 1 F 10
+Czech Republic Korean 1 M 10
+Czech Republic Kurdish 1 F 10
+Czech Republic Malayalam 1 M 10
+Czech Republic Portuguese 1 M 10
+Czech Republic Spanish 1 F 10
+Czech Republic Tajik 1 F 10
+Czech Republic Tamil 1 F 10
+Czech Republic Yiddish 1 M 10
+Democratic Republic of the Congo Arabic 1 M 1
+Democratic Republic of the Congo Tamil 1 M 1
+Denmark Albanian 1 M 1
+Denmark Macedonian 1 M 1
+Dominica French 1 M 1
+Dominica Greek 1 M 1
+Dominica Italian 1 M 1
+Dominican Republic Montenegrin 1 F 1
+Ecuador Dhivehi 1 F 2
+Ecuador Maori 1 F 2
+Ecuador Punjabi 1 F 2
+Egypt Bosnian 1 M 2
+Egypt Dari 1 F 2
+Egypt Hiri Motu 1 F 2
+Ethiopia Aymara 1 F 1
+Ethiopia Belarusian 1 F 1
+Finland Czech 1 M 4
+Finland Dzongkha 1 M 4
+Finland French 1 F 4
+Finland Gagauz 1 M 4
+Finland Georgian 1 M 4
+Finland Mongolian 1 M 4
+Finland Spanish 1 F 4
+Finland Thai 1 F 4
+France Albanian 2 FM 20
+France English 2 FM 20
+France Estonian 2 FM 20
+France Gujarati 2 FM 20
+France Icelandic 2 M 20
+France Luxembourgish 2 FM 20
+France Norwegian 2 FM 20
+Georgia Assamese 1 M 3
+Georgia Catalan 1 M 3
+Georgia Dzongkha 1 M 3
+Georgia Greek 1 M 3
+Georgia Kashmiri 1 M 3
+Georgia Lao 1 M 3
+Georgia Nepali 1 M 3
+Germany Bosnian 1 M 3
+Germany Danish 1 M 3
+Germany Fijian 1 F 3
+Germany Georgian 1 F 3
+Germany Hindi 1 M 3
+Germany Marathi 1 F 3
+Germany Mongolian 1 F 3
+Greece Croatian 2 FM 7
+Guatemala German 1 M 4
+Guatemala Hiri Motu 1 M 4
+Guatemala Kannada 1 F 4
+Guatemala Kurdish 1 M 4
+Guatemala Marathi 1 F 4
+Guatemala Punjabi 1 M 4
+Guatemala Romanian 1 F 4
+Honduras Chinese 1 F 1
+Honduras Romanian 1 F 1
+Hungary Aymara 1 M 1
+Hungary Dzongkha 1 M 1
+Indonesia Arabic 4 F 57
+Indonesia French 4 M 57
+Indonesia Swedish 4 M 57
+Indonesia Thai 4 M 57
+Iran Greek 1 M 3
+Iran Irish Gaelic 1 F 3
+Iran Korean 1 F 3
+Iran Latvian 1 M 3
+Iran Malagasy 1 M 3
+Ireland Papiamento 2 FM 2
+Israel Croatian 1 M 1
+Israel Hindi 1 M 1
+Israel Tsonga 1 M 1
+Italy Afrikaans 1 F 1
+Italy Azeri 1 F 1
+Italy German 1 F 1
+Jamaica Gagauz 1 F 1
+Japan Quechua 2 FM 7
+Jordan Hindi 1 M 1
+Jordan Malayalam 1 M 1
+Jordan Papiamento 1 M 1
+Kazakhstan English 1 F 1
+Kazakhstan Papiamento 1 F 1
+Kenya Estonian 1 M 2
+Kenya Marathi 1 M 2
+Kenya Swedish 1 M 2
+Kyrgyzstan Hiri Motu 1 M 1
+Kyrgyzstan Indonesian 1 M 1
+Kyrgyzstan Polish 1 M 1
+Laos Kannada 1 F 1
+Laos Moldovan 1 F 1
+Laos Sotho 1 F 1
+Lithuania Punjabi 1 F 1
+Madagascar Danish 1 M 3
+Madagascar Dutch 1 M 3
+Madagascar Kannada 1 F 3
+Madagascar Papiamento 1 M 3
+Madagascar Spanish 1 M 3
+Malaysia French 1 F 3
+Malaysia Gagauz 1 M 3
+Malaysia Guaran¡ 1 F 3
+Malaysia Kazakh 1 M 3
+Malaysia Nepali 1 M 3
+Malaysia Swahili 1 F 3
+Mexico Swedish 1 F 1
+Micronesia Arabic 1 F 1
+Micronesia Polish 1 F 1
+Micronesia Tok Pisin 1 F 1
+Mongolia Fijian 1 M 1
+Mongolia Hindi 1 M 1
+Myanmar English 1 F 1
+Myanmar Moldovan 1 F 1
+Namibia Estonian 1 F 1
+Namibia Papiamento 1 F 1
+Namibia Swati 1 F 1
+Netherlands Belarusian 1 M 2
+Netherlands Mongolian 1 M 2
+Netherlands Ndebele 1 F 2
+Netherlands Papiamento 1 F 2
+Nicaragua Assamese 1 M 2
+Nicaragua Telugu 1 M 2
+Nicaragua Tsonga 1 M 2
+Niger Dhivehi 1 M 1
+Niger Kazakh 1 M 1
+Niger Northern Sotho 1 M 1
+Nigeria Bulgarian 2 M 4
+Norway Bislama 1 F 2
+Norway Greek 1 M 2
+Norway Malagasy 1 M 2
+Norway Sotho 1 F 2
+Norway Spanish 1 M 2
+Pakistan Burmese 1 F 2
+Pakistan Gagauz 1 F 2
+Pakistan Haitian Creole 1 M 2
+Pakistan Punjabi 1 M 2
+Palestinian Territory Amharic 1 M 2
+Palestinian Territory Tajik 1 F 2
+Panama Lithuanian 1 M 1
+Papua New Guinea Korean 1 M 1
+Papua New Guinea Lithuanian 1 M 1
+Peru Arabic 1 M 7
+Peru Armenian 1 F 7
+Peru Azeri 1 F 7
+Peru Bosnian 1 F 7
+Peru Czech 1 F 7
+Peru Dhivehi 1 F 7
+Peru Hiri Motu 1 F 7
+Peru Irish Gaelic 1 F 7
+Peru Kurdish 1 F 7
+Peru Luxembourgish 1 M 7
+Peru Mongolian 1 M 7
+Peru Northern Sotho 1 M 7
+Peru Somali 1 F 7
+Peru Swahili 1 M 7
+Peru Tswana 1 F 7
+Peru Yiddish 1 M 7
+Philippines Hebrew 3 F 28
+Poland Afrikaans 2 F 17
+Poland Filipino 2 F 17
+Poland Swati 2 M 17
+Poland Tok Pisin 2 F 17
+Portugal Maori 3 M 20
+Puerto Rico English 1 M 1
+Puerto Rico Kannada 1 M 1
+Reunion Bengali 1 F 2
+Reunion Hindi 1 F 2
+Reunion Tetum 1 F 2
+Reunion Yiddish 1 F 2
+Russia Bulgarian 3 M 24
+Russia Pashto 3 F 24
+Saint Kitts and Nevis Hindi 1 M 1
+Saint Kitts and Nevis Ndebele 1 M 1
+Saudi Arabia Afrikaans 1 F 2
+Saudi Arabia Hebrew 1 M 2
+Saudi Arabia Norwegian 1 F 2
+Serbia Hebrew 2 M 8
+Slovenia Irish Gaelic 1 M 2
+Slovenia Japanese 1 M 2
+Slovenia Maori 1 F 2
+Slovenia Swahili 1 F 2
+South Africa Armenian 1 F 4
+South Africa Bosnian 1 M 4
+South Africa Croatian 1 M 4
+South Africa English 1 F 4
+South Africa Georgian 1 M 4
+South Africa West Frisian 1 M 4
+South Korea Afrikaans 2 F 4
+Spain Irish Gaelic 1 M 1
+Sri Lanka Ndebele 1 M 1
+Sweden Armenian 2 M 13
+Syria Tswana 1 M 1
+Tajikistan Haitian Creole 1 F 1
+Tajikistan Romanian 1 F 1
+Tanzania Dutch 1 M 1
+Tanzania Hiri Motu 1 M 1
+Tanzania Kurdish 1 M 1
+Thailand Amharic 1 F 5
+Thailand Assamese 1 F 5
+Thailand Bosnian 1 F 5
+Thailand Burmese 1 M 5
+Thailand Dari 1 F 5
+Thailand Dhivehi 1 F 5
+Thailand Gujarati 1 M 5
+Thailand Lithuanian 1 F 5
+Thailand Montenegrin 1 F 5
+Thailand Oriya 1 F 5
+Tunisia Czech 1 F 1
+Tunisia Telugu 1 F 1
+Uganda Armenian 1 F 2
+Uganda Dutch 1 F 2
+Uganda Tok Pisin 1 F 2
+Ukraine Kashmiri 2 FM 6
+United States Belarusian 1 F 10
+United States Bosnian 1 M 10
+United States Czech 1 F 10
+United States Finnish 1 M 10
+United States Haitian Creole 1 F 10
+United States Latvian 1 F 10
+United States Malagasy 1 F 10
+United States Moldovan 1 F 10
+United States Nepali 1 F 10
+United States Romanian 1 F 10
+United States Tajik 1 F 10
+United States Tamil 1 M 10
+United States Telugu 1 F 10
+United States Thai 1 F 10
+United States Tok Pisin 1 M 10
+United States Tsonga 1 M 10
+United States Zulu 1 F 10
+Uruguay Azeri 1 F 1
+Uruguay Norwegian 1 F 1
+Uzbekistan Assamese 1 F 2
+Uzbekistan German 1 M 2
+Venezuela Arabic 1 F 1
+Venezuela Gagauz 1 F 1
+Venezuela Polish 1 F 1
+Vietnam Bulgarian 1 M 3
+Vietnam Gagauz 1 M 3
+Vietnam Georgian 1 F 3
+Vietnam Swati 1 M 3
+Vietnam Tajik 1 M 3
+Vietnam Telugu 1 F 3
+Yemen Moldovan 1 F 1
+Zimbabwe Arabic 1 F 1
+Zimbabwe Filipino 1 F 1
+Zimbabwe French 1 F 1
